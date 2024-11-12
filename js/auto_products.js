@@ -1,10 +1,10 @@
 var descrip = {
     'miniatura1':'Caixão 10000Km', 
     'miniatura2':'Caixão de Luxo', 
-    'miniatura3':'Caixão usado pouco', 
+    'miniatura3':'Caixão para Prigosa', 
     'miniatura4':'Caixão de  3ª Mão', 
-    'miniatura5':'Caixão para Pofer', 
-    'miniatura6':'Caixão 0Km', 
+    'miniatura5':'Caixão para Maconheiro', 
+    'miniatura6':'Caixão para Confusent', 
     'miniatura7':'Produto', 
     'miniatura8':'Produto',
     'miniatura9':'Produto',
