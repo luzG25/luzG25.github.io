@@ -8989,7 +8989,7 @@ var Td = ns.exports,
   tc,
   Hu = Td;
 (tc = Hu.createRoot), Hu.hydrateRoot;
-const Ld = "/ramiltondesigner/assets/logo_ramilton_Designer-DMPEwpDO.svg";
+const Ld = "/assets/logo_ramilton_Designer-DMPEwpDO.svg";
 function Rd() {
   return v.jsx("header", {
     className: " text-text p-4",
